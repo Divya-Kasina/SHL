@@ -1,4 +1,6 @@
 pip install newspaper3k
 streamlit
 requests
+lxml
+nltk
 beautifulsoup4
