@@ -10,4 +10,4 @@ fastapi
 uvicorn
 pydantic
 sentence-transformers
-lxml
+lxml-html-clean
